@@ -1,0 +1,7 @@
+.env
+assets/
+data/
+__pycache__/
+*.py[cod]
+
+test/
